@@ -13,6 +13,7 @@ Imports: Matrix, movAPA, GenomicRanges, ggplot2, ggbio, tidyr, dplyr, biomaRt, t
         bamsignals, AnnotationFilter, GenomeInfoDb, 
 	IRanges, magrittr, methods
 Suggests: destiny, ggpubr, Seurat
+VignetteBuilder: knitr
 License: GPL
 Encoding: UTF-8
 LazyData: true
